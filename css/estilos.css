@@ -15,7 +15,7 @@ p { font-size: 1.5em;}
 
 .columna { width: 25%; padding:1em;    }
 
-header { min-height: 100vh; width: 100%; 
+header { min-height: 80vh; width: 100%; 
 display: flex; flex-direction: column; }
 
 header section { 
